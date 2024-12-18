@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "digicomp-r",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\nstr(1+1)\n\n num 2\n\n\nBasic R"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "r-basic.html",
+    "href": "r-basic.html",
+    "title": "r-basic",
+    "section": "",
+    "text": "This is the basic tutorial\nEinfaches oder doppeltes Anführungszeichen für Text\n\n\"Hello\"\n\n[1] \"Hello\"\n\n'Hallo'\n\n[1] \"Hallo\"\n\n\n\nOhne Anführungszeichen für Number\n\n123\n\n[1] 123\n\n\n\n\nEinfache Berechnungen\n\n10/2\n\n[1] 5\n\n3^2\n\n[1] 9\n\n\npaste(“Hello”, “DigiKomp”) ### F: paste() ist eine R Funktion. Was macht sie? ### Hinweis: ?paste\n\n\nACHTUNG:\n\nprint('a' + 2)\n\nError in \"a\" + 2: non-numeric argument to binary operator\n\npaste('a', 2)\n\n[1] \"a 2\""
+  }
+]
