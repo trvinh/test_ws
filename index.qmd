@@ -1,0 +1,15 @@
+---
+title: "digicomp-r"
+author: "Vinh Tran"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+str(1+1)
+```
+
+[Basic R](r-basic.qmd)

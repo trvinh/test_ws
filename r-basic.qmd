@@ -1,0 +1,35 @@
+---
+title: "r-basic"
+author: "Vinh Tran"
+---
+
+This is the basic tutorial
+
+
+Einfaches oder doppeltes Anführungszeichen für Text
+```{r}
+"Hello"
+'Hallo'
+```
+
+# Ohne Anführungszeichen für Number
+```{r}
+123
+```
+     
+
+# Einfache Berechnungen
+```{r}
+10/2
+3^2
+```
+paste("Hello", "DigiKomp")
+### F: paste() ist eine R Funktion. Was macht sie?
+### Hinweis: ?paste
+     
+
+# ACHTUNG:
+```{r, error=TRUE}
+print('a' + 2)
+paste('a', 2)
+```
